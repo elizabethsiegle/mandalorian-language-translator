@@ -1,5 +1,4 @@
 ### How to Translate English to Mandalorian with Twilio Serverless and SMS
-![header img](https://twilio-cms-prod.s3.amazonaws.com/images/mandoheader2.width-1616.png)
 Test the app out by texting a sentence to +14807573107 
 ![img example](https://pbs.twimg.com/media/E0kIdbYUYAQ39QJ?format=jpg&name=large)
 
